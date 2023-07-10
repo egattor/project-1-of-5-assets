@@ -5,4 +5,4 @@
 Click the title above to watch the tutorial on YouTube.
 Download the assets here and follow the step-by-step tutorial to create this project yourself!
 
-Support me by [becoming a patron]('https://patreon.com/egator')
+#### [Become a patron]("https://patreon.com/egator")
